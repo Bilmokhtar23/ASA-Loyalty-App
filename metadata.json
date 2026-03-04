@@ -1,0 +1,5 @@
+{
+  "name": "ASA Loyalty App",
+  "description": "A loyalty platform for the Arab Student Association Amsterdam, featuring digital membership cards, event check-ins, and partner rewards.",
+  "requestFramePermissions": ["camera"]
+}
